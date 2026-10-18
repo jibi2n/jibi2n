@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Jibi!
+My real name is Gbert Pilapil.
 
-<!--
-**jibi2n/jibi2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a 4th year CS student at UST (Data Science).
 
-Here are some ideas to get you started:
+- 🔭 I'm working on a lot of projects, but mostly myself!
+- 🌱 Right now I am learning AWS, cloud infrastructure, AI, and related tools.
+- 📫 You may reach me through my [LinkedIn](https://linkedin.com/in/gbert-pilapil) or check my portfolio here [Portfolio](https://gbertpilapil.com)
+- 💼 I am currently looking for internships in AI, automation, cloud, or software engineering (remote or Metro Manila)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+[![Skills](https://skillicons.dev/icons?i=python,js,aws,docker,postgres,git,linux)](https://skillicons.dev)
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=jibi2n&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibi2n&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=jibi2n&theme=tokyonight)
