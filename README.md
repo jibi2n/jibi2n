@@ -5,7 +5,7 @@ I am currently a 4th year CS student at UST (Data Science).
 
 - 🔭 I'm working on a lot of projects, but mostly myself!
 - 🌱 Right now I am learning AWS, cloud infrastructure, AI, and related tools.
-- 📫 You may reach me through my [LinkedIn](https://linkedin.com/in/gbert-pilapil) or check my portfolio here [Portfolio](https://gbertpilapil.com)
+- 📫 You may reach me through my [LinkedIn](https://linkedin.com/in/gbert-pilapil) or check out my [Portfolio](https://gbertpilapil.com)
 - 💼 I am currently looking for internships in AI, automation, cloud, or software engineering (remote or Metro Manila)
 
 ## Tech Stack
